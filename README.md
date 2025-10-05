@@ -1,6 +1,6 @@
 # MY-Portfolio
 
-## 👨‍🎓 Name:
+##  Name:
 Mihir Sekhar Mohanty
 ## 🏡 Department:
 Computer Science and Engineering
